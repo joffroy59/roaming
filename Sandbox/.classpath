@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/m2repo/quartz/quartz/1.5.2/quartz-1.5.2.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="quartz"/>
+			<attribute name="maven.artifactId" value="quartz"/>
+			<attribute name="maven.version" value="1.5.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/stcom-batch"/>
+	<classpathentry kind="lib" path="D:/m2repo/com/oxit/stores/fwk-stores/13.11.00.00-SNAPSHOT/fwk-stores-13.11.00.00-SNAPSHOT.jar" sourcepath="D:/m2repo/com/oxit/stores/fwk-stores/13.11.00.00-SNAPSHOT/fwk-stores-13.11.00.00-20131002.125033-11-sources.jar">
+		<attributes>
+			<attribute name="maven.groupId" value="com.oxit.stores"/>
+			<attribute name="maven.artifactId" value="fwk-stores"/>
+			<attribute name="maven.version" value="13.11.00.00-20131002.125033-11"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
